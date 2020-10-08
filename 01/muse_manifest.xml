@@ -1,0 +1,395 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://ftp.lolipop.jp" ftp_rootfolder="/trial01" exportTarget="FTP" domain="https://jam-p.com/trial01" resolutions="1x" timestamp="1581232330047">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-____.css" crc="3796186440" ref="４:2:index:3"/>
+    <file name="_.css" crc="4092681435" ref="４"/>
+    <file name="2.css" crc="169521362" ref="2"/>
+    <file name="index.css" crc="4126894118" ref="index"/>
+    <file name="3.css" crc="3960372905" ref="3"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:2:3:４"/>
+    <file name="museutils.js" crc="340535759" ref="index:2:3:４"/>
+    <file name="whatinput.js" crc="86476730" ref="index:2:3:４"/>
+    <file name="museconfig.js" crc="310584261" ref="index:2:3:４"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:2:3:４"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index:2:3:４"/>
+  </folder>
+  <folder name="images">
+    <file name="rij_fr.png" crc="4275298669" seo="true" ref="index:2:3:４">
+      <caption webpage="2" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="４" alt=""/>
+    </file>
+    <file name="title.jpg" crc="3851611068" seo="true" ref="index:2:3:４">
+      <caption webpage="2" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="４" alt=""/>
+    </file>
+    <file name="webkoukai.png" crc="500331085" seo="true" ref="index:2:3:４">
+      <caption webpage="2" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="４" alt=""/>
+    </file>
+    <file name="trial_surutoco_top.jpg" crc="3987186363" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trial_taiwan.jpg" crc="439816970" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="zureru.gif" crc="165660596" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="top01.jpg" crc="4026554852" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="top02.jpg" crc="3758370575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="top03.jpg" crc="277210465" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="tema.jpg" crc="52919194" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="00.jpg" crc="4163712379" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02.jpg" crc="4210008672" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03.jpg" crc="4287432997" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="04.jpg" crc="19233851" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05.jpg" crc="219178097" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="07.jpg" crc="4168226181" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="08.jpg" crc="157175326" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="09.jpg" crc="462379065" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="10.jpg" crc="426092021" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11.jpg" crc="3835727016" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14.jpg" crc="334644536" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15.jpg" crc="4106564285" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16.jpg" crc="31549917" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="18.jpg" crc="178332645" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="19.jpg" crc="3952433141" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20.jpg" crc="3774957142" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="22.jpg" crc="3854385669" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="23.jpg" crc="4126565066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="24.jpg" crc="245064017" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="25.jpg" crc="3784990072" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="26.jpg" crc="60540235" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="28.jpg" crc="89264872" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="29.jpg" crc="219440386" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="30.jpg" crc="4187175939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="33.jpg" crc="440176220" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="34.jpg" crc="351679587" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="35.jpg" crc="4112413342" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="36.jpg" crc="4210835121" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="37.jpg" crc="4142117965" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="38.jpg" crc="34925793" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="39.jpg" crc="298958344" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="41.jpg" crc="3848295551" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="42.jpg" crc="183173246" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="43.jpg" crc="3767287275" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="44.jpg" crc="3820972099" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="45.jpg" crc="154399523" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="46.jpg" crc="404192849" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="47.jpg" crc="4091095295" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="48.jpg" crc="4240759900" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="49.jpg" crc="192825068" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="50.jpg" crc="7602396" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="51.jpg" crc="360070688" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="52.jpg" crc="4122201304" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="53.jpg" crc="100948350" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="54.jpg" crc="91556037" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="55.jpg" crc="3937088555" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="56.jpg" crc="3918560241" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="57.jpg" crc="3802085241" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="58.jpg" crc="4045307870" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="59.jpg" crc="277802187" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="60.jpg" crc="125755718" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="63.jpg" crc="273597422" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="64.jpg" crc="446113529" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="65.jpg" crc="464558335" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="66.jpg" crc="487293188" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="67.jpg" crc="149125273" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="68.jpg" crc="116303989" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="69.jpg" crc="3876887572" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="70.jpg" crc="4253541092" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="71.jpg" crc="4014622781" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="72.jpg" crc="4032370016" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="73.jpg" crc="4056201956" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="74.jpg" crc="3866287021" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="75.jpg" crc="273520080" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="76.jpg" crc="275842492" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="77.jpg" crc="4116964300" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="78.jpg" crc="440300044" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="79.jpg" crc="4066110190" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="80.jpg" crc="4055504055" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="81.jpg" crc="507884080" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="83.jpg" crc="379202280" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="82.jpg" crc="4152112249" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="84.jpg" crc="4279321158" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="85.jpg" crc="4036141573" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="86.jpg" crc="3767411702" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="87.jpg" crc="3845477065" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="88.jpg" crc="130784168" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="89.jpg" crc="197949074" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="90.jpg" crc="3920448475" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="91.jpg" crc="382968025" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="92.jpg" crc="122891281" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="93.jpg" crc="4264521428" seo="true" ref="４">
+      <caption webpage="４" alt=""/>
+    </file>
+    <file name="94.jpg" crc="5675843" seo="true" ref="４">
+      <caption webpage="４" alt=""/>
+    </file>
+    <file name="96.jpg" crc="4035623197" seo="true" ref="４">
+      <caption webpage="４" alt=""/>
+    </file>
+    <file name="97.jpg" crc="4112896052" seo="true" ref="４">
+      <caption webpage="４" alt=""/>
+    </file>
+    <file name="98.jpg" crc="4079603024" seo="true" ref="４">
+      <caption webpage="４" alt=""/>
+    </file>
+    <file name="99.jpg" crc="310218856" seo="true" ref="４">
+      <caption webpage="４" alt=""/>
+    </file>
+    <file name="100.jpg" crc="3987586695" seo="true" ref="４">
+      <caption webpage="４" alt=""/>
+    </file>
+    <file name="103.jpg" crc="4191099149" seo="true" ref="４">
+      <caption webpage="４" alt=""/>
+    </file>
+    <file name="104.jpg" crc="111110737" seo="true" ref="４">
+      <caption webpage="４" alt=""/>
+    </file>
+    <file name="105.jpg" crc="308046953" seo="true" ref="４">
+      <caption webpage="４" alt=""/>
+    </file>
+    <file name="106.jpg" crc="44300230" seo="true" ref="４">
+      <caption webpage="４" alt=""/>
+    </file>
+    <file name="107.jpg" crc="333064634" seo="true" ref="４">
+      <caption webpage="４" alt=""/>
+    </file>
+    <file name="108.jpg" crc="347606989" seo="true" ref="４">
+      <caption webpage="４" alt=""/>
+    </file>
+    <file name="110.jpg" crc="368662193" seo="true" ref="４">
+      <caption webpage="４" alt=""/>
+    </file>
+    <file name="111.jpg" crc="4109468722" seo="true" ref="４">
+      <caption webpage="４" alt=""/>
+    </file>
+    <file name="112.jpg" crc="4098412729" seo="true" ref="４">
+      <caption webpage="４" alt=""/>
+    </file>
+    <file name="113.jpg" crc="20095422" seo="true" ref="４">
+      <caption webpage="４" alt=""/>
+    </file>
+    <file name="114.jpg" crc="398508168" seo="true" ref="４">
+      <caption webpage="４" alt=""/>
+    </file>
+    <file name="115.jpg" crc="10412789" seo="true" ref="４">
+      <caption webpage="４" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="395102637" seo="true" mt="1581232232122" redirect="true"/>
+  <file name="2.html" crc="4197557587" seo="true" mt="1558435702113" redirect="true"/>
+  <file name="3.html" crc="4242522108" seo="true" mt="1558435623441" redirect="true"/>
+  <file name="４.html" crc="3767934419" seo="true" mt="1558436017554" redirect="true"/>
+  <site>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="レトロ印刷トライアル" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U83" maxwidth="1500" minwidth="0" squishy="false"/>
+      </page>
+      <masterPage name="A-マスター" master="U62" uid="U72">
+        <breakpoint uid="U73" maxwidth="1500" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="1300" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="2" filename="2.html" muse_href="page:U3053" master="U72">
+        <breakpoint uid="U3037" maxwidth="1500" minwidth="0" squishy="false"/>
+      </page>
+      <page name="3" filename="3.html" muse_href="page:U4418" master="U72">
+        <breakpoint uid="U4001" maxwidth="1500" minwidth="0" squishy="false"/>
+      </page>
+      <page name="４" filename="４.html" muse_href="page:U4913" master="U72">
+        <breakpoint uid="U4690" maxwidth="1500" minwidth="0" squishy="false"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
