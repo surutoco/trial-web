@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://trial.jam-p.com" resolutions="1x" timestamp="1602664375605">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://trial.jam-p.com" resolutions="1x" timestamp="1602811374278">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-____.css" crc="4175077521" ref="2:5:index:4:3"/>
+    <file name="master_a-____.css" crc="120906596" ref="2:5:index:4:3"/>
     <file name="2.css" crc="3926208327" ref="2"/>
-    <file name="5.css" crc="4111737227" ref="5"/>
+    <file name="5.css" crc="3766042331" ref="5"/>
     <file name="index.css" crc="3769870036" ref="index"/>
     <file name="4.css" crc="181960366" ref="4"/>
     <file name="3.css" crc="98828464" ref="3"/>
@@ -16,19 +16,21 @@
     <file name="museutils.js" crc="340535759" ref="index:2:3:4:5"/>
     <file name="whatinput.js" crc="86476730" ref="index:2:3:4:5"/>
     <file name="museconfig.js" crc="310584261" ref="index:2:3:4:5"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:5"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:2:3:4:5"/>
     <file name="require.js" crc="7928878" ref="index:2:3:4:5"/>
   </folder>
   <folder name="images">
     <file name="レトロ印刷トライアル-favicon.ico" crc="3907808703" ref="index"/>
-    <file name="trial_top_test.jpg" crc="295680102" ref="index">
+    <file name="trial_top_test.jpg" crc="295680102" ref="index:5">
+      <caption webpage="5" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="haikei.png" crc="3847126421" ref="index">
+    <file name="haikei.png" crc="3847126421" ref="index:5">
+      <caption webpage="5" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:5"/>
     <file name="jam_icon_w.png" crc="4174835106" seo="true" ref="index:2:3:4:5">
       <caption webpage="2" alt=""/>
       <caption webpage="3" alt=""/>
@@ -530,5 +532,5 @@
   <file name="2.html" crc="4223516869" seo="true" mt="1602644186967" redirect="true"/>
   <file name="3.html" crc="157648246" seo="true" mt="1602644169402" redirect="true"/>
   <file name="4.html" crc="466656845" seo="true" mt="1602664069778" redirect="true"/>
-  <file name="5.html" crc="4273501714" seo="true" mt="1602664346240" redirect="true"/>
+  <file name="5.html" crc="4254023529" seo="true" mt="1602811350180" redirect="true"/>
 </manifest>
