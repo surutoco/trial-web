@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://trial.jam-p.com" resolutions="1x" timestamp="1603266064153">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://trial.jam-p.com" resolutions="1x" timestamp="1603266583573">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-____.css" crc="4175077521" ref="4:2:5:3:index"/>
@@ -16,19 +16,21 @@
     <file name="museutils.js" crc="340535759" ref="index:2:3:4:5"/>
     <file name="whatinput.js" crc="86476730" ref="index:2:3:4:5"/>
     <file name="museconfig.js" crc="310584261" ref="index:2:3:4:5"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:2"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:2:3:4:5"/>
     <file name="require.js" crc="7928878" ref="index:2:3:4:5"/>
   </folder>
   <folder name="images">
     <file name="レトロ印刷トライアル-favicon.ico" crc="3907808703" ref="index"/>
-    <file name="trial_top_test.jpg" crc="295680102" ref="index">
+    <file name="trial_top_test.jpg" crc="295680102" ref="index:2">
+      <caption webpage="2" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="haikei.png" crc="3847126421" ref="index">
+    <file name="haikei.png" crc="3847126421" ref="index:2">
+      <caption webpage="2" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:2"/>
     <file name="jam_icon_w.png" crc="4174835106" seo="true" ref="index:2:3:4:5">
       <caption webpage="2" alt=""/>
       <caption webpage="3" alt=""/>
@@ -527,8 +529,8 @@
     </file>
   </folder>
   <file name="index.html" crc="4055213906" mt="1602814400962" redirect="true"/>
-  <file name="2.html" crc="3994033905" seo="true" mt="1602814425599" redirect="true"/>
+  <file name="2.html" crc="356127798" seo="true" mt="1603266482157" redirect="true"/>
   <file name="3.html" crc="387918013" seo="true" mt="1602814458428" redirect="true"/>
-  <file name="4.html" crc="277525658" seo="true" mt="1603265988182" redirect="true"/>
-  <file name="5.html" crc="466793981" seo="true" mt="1602814509963" redirect="true"/>
+  <file name="4.html" crc="107993584" seo="true" mt="1603266545587" redirect="true"/>
+  <file name="5.html" crc="98916275" seo="true" mt="1603266555145" redirect="true"/>
 </manifest>
