@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://trial.jam-p.com" resolutions="1x" timestamp="1602814542505">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://trial.jam-p.com" resolutions="1x" timestamp="1603266064153">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-____.css" crc="4175077521" ref="2:5:index:4:3"/>
+    <file name="master_a-____.css" crc="4175077521" ref="4:2:5:3:index"/>
+    <file name="4.css" crc="3805380652" ref="4"/>
     <file name="2.css" crc="484550176" ref="2"/>
     <file name="5.css" crc="277232855" ref="5"/>
-    <file name="index.css" crc="505690284" ref="index"/>
-    <file name="4.css" crc="3805380652" ref="4"/>
     <file name="3.css" crc="525188636" ref="3"/>
+    <file name="index.css" crc="505690284" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="template_retpo(postcard).ai.zip" crc="4155749097" seo="true" mt="1582533374000"/>
@@ -23,11 +23,9 @@
   <folder name="images">
     <file name="レトロ印刷トライアル-favicon.ico" crc="3907808703" ref="index"/>
     <file name="trial_top_test.jpg" crc="295680102" ref="index">
-      <caption webpage="5" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="haikei.png" crc="3847126421" ref="index">
-      <caption webpage="5" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
@@ -479,10 +477,10 @@
     <file name="103.jpg" crc="380157627" seo="true" ref="5">
       <caption webpage="5" alt=""/>
     </file>
-    <file name="173.jpg" crc="500465382" seo="true" ref="5">
+    <file name="119.jpg" crc="3867869286" seo="true" ref="5">
       <caption webpage="5" alt=""/>
     </file>
-    <file name="119.jpg" crc="3867869286" seo="true" ref="5">
+    <file name="173.jpg" crc="500465382" seo="true" ref="5">
       <caption webpage="5" alt=""/>
     </file>
     <file name="180.jpg" crc="209650821" seo="true" ref="5">
@@ -531,6 +529,6 @@
   <file name="index.html" crc="4055213906" mt="1602814400962" redirect="true"/>
   <file name="2.html" crc="3994033905" seo="true" mt="1602814425599" redirect="true"/>
   <file name="3.html" crc="387918013" seo="true" mt="1602814458428" redirect="true"/>
-  <file name="4.html" crc="3914210557" seo="true" mt="1602814482245" redirect="true"/>
+  <file name="4.html" crc="277525658" seo="true" mt="1603265988182" redirect="true"/>
   <file name="5.html" crc="466793981" seo="true" mt="1602814509963" redirect="true"/>
 </manifest>
